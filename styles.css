@@ -1,0 +1,135 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 700;
+}
+
+i {
+    color:white;
+}
+
+h1{
+  font-family:'Libre Franklin', sans-serif ;
+  font-weight: 900;
+  color: White;
+  font-size: 10rem;
+}
+
+h3{
+
+color:white; 
+
+}
+
+.nav-link{
+  font-family: 'libre Franklin';
+  font-weight: 700;
+  color: black;
+  padding: 2rem;
+}
+
+#collapsibleNavbar{
+  border: black;
+  border-width: 2px;
+}
+
+
+.heading{
+  width: 100%;
+  background-color:black;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 50rem;
+}
+
+.div-progress{
+
+}
+
+.goal-donation{
+  margin-top: 3rem;
+  font-weight: 700;
+  color: white;
+}
+
+.progress {
+  transform: rotate(270deg);
+  width: 28rem;
+  height: 3rem;
+  margin-top: 15rem;
+  border-radius: 25px;
+  border-color: grey;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.current-donation {
+  margin-top: 15rem;
+  font-weight: 700;
+  color:white
+}
+
+#div-heading-buttons{
+
+  margin-top: 5rem;
+}
+
+.ysm-button{
+  background-color: red; 
+  border-width: 0;
+  width: 15rem;
+  height: 5rem;
+}
+
+.button-text {
+  color:white;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.counter-section{
+  margin-top: 100px;
+}
+
+.counter-heading{
+  margin-bottom: 100px;
+  font-family: 'libre Franklin', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+
+.counter {
+  width: 70px;
+  height: 80px;
+  background: red;
+}
+
+
+.div-counter{
+  padding-left: 80px;
+}
+
+.count
+{  
+  width: 250px;
+  height: 250px;
+  -moz-border-radius: 20%;
+  -webkit-border-radius: 20px;
+  border-radius: 100%;
+  background-color: red;
+  text-align: center;
+  line-height: 10rem;
+  color:white;
+  font-size:100px;
+  margin: 1px;
+  margin-left: 8%;
+  margin-bottom: 2rem;
+  padding-top: 30px;
+}
+.counter-text{
+  width:20rem;
+  font-weight: 700;
+  font-size: 2rem;
+
+}
